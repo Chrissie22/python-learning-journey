@@ -1,0 +1,3 @@
+This is my first journal entry.
+I am learning about file I/o in python.
+It's fun
